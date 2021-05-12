@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(230, 116, 75);
+}
+.main{
+    width: 390px;
+    margin: 3px auto;
+}
+h2{
+    font-family: 'Gabriela', serif;
+}
+.block{
+    border-radius: .5em;
+    padding: 15px;
+    margin: 13px auto;
+}
+.block1{
+    background-color: rgb(21, 141, 21);
+}
+.block2{
+    background-color: goldenrod;
+}
+.block3{
+    background-color: darkslategray;
+}
+.block4{
+    background: yellow;
+}
+.block5{
+    background: orangered;
+}
+.color1{
+    color: rgb(216, 103, 11);
+}
+.color2{
+    color: brown;
+}
+.link{
+    color: rgb(24, 77, 24);
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.active{
+    color: greenyellow;
+    text-decoration: underline;
+}
